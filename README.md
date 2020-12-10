@@ -16,10 +16,9 @@ Trying out MongoDB with python using PyMongo. Working with PyMongo by cretaaing 
     
 # Set up
 1. update your pip
-        
-        ```
-            python -m pip install pip --upgrade
-        ```
+    ```
+        python -m pip install pip --upgrade
+    ```
 
 2. Set up virtual environment. This is optional
 
