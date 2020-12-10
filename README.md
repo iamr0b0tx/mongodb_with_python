@@ -15,6 +15,11 @@ Trying out MongoDB with python using PyMongo. Working with PyMongo by cretaaing 
     - a txt files containing the python requirements
     
 # Set up
+clone (or download zip) the repository and navigate to the directory
+```
+    git clone https://github.com/iamr0b0tx/mongodb_with_python
+    cd mongodb_with_python
+```
 1. update your pip
     ```
         python -m pip install pip --upgrade
